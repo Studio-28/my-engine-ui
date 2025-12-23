@@ -1,0 +1,27 @@
+{
+    "name": "@aurel/my-engine-ui",
+    "version": "0.1.0",
+    "description": "Reusable UI components for My Engine games",
+    "type": "module",
+    "main": "src/index.js",
+    "exports": {
+        ".": "./src/index.js"
+    },
+    "files": [
+        "src"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "my-engine",
+        "ui",
+        "canvas",
+        "gamedev"
+    ],
+    "author": "Aurel",
+    "license": "MIT",
+    "peerDependencies": {
+        "@kenzoobryan/my-engine": "^0.3.0"
+    }
+}

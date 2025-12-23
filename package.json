@@ -1,6 +1,6 @@
 {
     "name": "@aurel/my-engine-ui",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "description": "Reusable UI components for My Engine games",
     "type": "module",
     "main": "src/index.js",
